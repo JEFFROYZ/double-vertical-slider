@@ -1,1 +1,1 @@
-# double-vertical-slider
+mini project double-vertical-slider
